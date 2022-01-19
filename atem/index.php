@@ -469,11 +469,7 @@ opacity: 0.5;
             <button id="btn_delay2" onclick="change_delay(1000)">1,0</button><br><br>
             <button id="btn_delay3" onclick="change_delay(1500)">1,5</button>&nbsp;
             <button id="btn_delay4" onclick="change_delay(2000)">2,0</button><br><br>
-<<<<<<< Updated upstream
-            <!--<input type="number" id="delay_val" value="1"> aaa-->
-=======
             <!--<input type="number" id="delay_val" value="1">-->
->>>>>>> Stashed changes
         </div>
         <div class="general">
             <br>
