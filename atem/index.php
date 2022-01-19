@@ -350,6 +350,7 @@ opacity: 0.5;
             function prolinacka(){
                 document.getElementById('vystup').className = 'pre';
 
+                //tohle se musi vylepsit
                 
                 /*
                 var delay = document.getElementById('delay_val').value;
